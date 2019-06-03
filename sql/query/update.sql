@@ -1,3 +1,7 @@
 UPDATE People
-SET FirstName='Michael', LastName='Eckstine'
-WHERE Age=0; 
+SET FirstName='Mikey', LastName='Mikey', Age=42, FavoriteFood='Dirt'
+WHERE Age IS NULL; 
+
+UPDATE People
+SET FirstName='Cthulu'
+WHERE Age=999; 
