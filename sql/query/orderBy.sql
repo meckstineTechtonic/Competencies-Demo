@@ -1,0 +1,3 @@
+SELECT * FROM People ORDER BY Age ASC;
+
+SELECT * FROM People ORDER BY Age DESC;
