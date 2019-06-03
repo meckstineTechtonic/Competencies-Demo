@@ -1,0 +1,7 @@
+C:\Users\dev\Documents\Projects\Competencies-Demo\c#\NumberGuesser\bin\Debug\NumberGuesser.exe.config
+C:\Users\dev\Documents\Projects\Competencies-Demo\c#\NumberGuesser\bin\Debug\NumberGuesser.exe
+C:\Users\dev\Documents\Projects\Competencies-Demo\c#\NumberGuesser\bin\Debug\NumberGuesser.pdb
+C:\Users\dev\Documents\Projects\Competencies-Demo\c#\NumberGuesser\obj\Debug\NumberGuesser.csprojAssemblyReference.cache
+C:\Users\dev\Documents\Projects\Competencies-Demo\c#\NumberGuesser\obj\Debug\NumberGuesser.csproj.CoreCompileInputs.cache
+C:\Users\dev\Documents\Projects\Competencies-Demo\c#\NumberGuesser\obj\Debug\NumberGuesser.exe
+C:\Users\dev\Documents\Projects\Competencies-Demo\c#\NumberGuesser\obj\Debug\NumberGuesser.pdb
